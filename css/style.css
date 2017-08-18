@@ -1,6 +1,6 @@
 /*--
-Author: W3layouts
-Author URL: http://w3layouts.com
+Author: svalayouts
+Author URL: http://svalayouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
@@ -136,26 +136,26 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     min-height: 770px;
     padding: 1em 0;
 }
-.w3_agileits_banner_main_grid{
+.sva_agileits_banner_main_grid{
 	padding:2em 0 0;
 	position:relative;
 }
-.w3_agile_logo{
+.sva_agile_logo{
 	float:left;
 }
-.w3_agile_logo h1 a{
+.sva_agile_logo h1 a{
 	font-size:1em;
 	color:#fff;
 	text-decoration:none;
 	display:block;
 }
-.w3_agile_logo h1 a span{
+.sva_agile_logo h1 a span{
 	padding: .2em .5em;
     background: #a4dd25;
     display: inline-block;
     color: #212121;
 }
-.w3_agile_logo h1 a i{
+.sva_agile_logo h1 a i{
 	display: block;
     font-size: .25em;
     text-align: right;
@@ -173,16 +173,16 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     display: inline-block;
     font-size: 1.2em;
 }
-a.w3_agile_facebook:hover{
+a.sva_agile_facebook:hover{
 	color:#3b5998;
 }
 a.agile_twitter:hover{
 	color:#1da1f2;
 }
-a.w3_agile_dribble:hover{
+a.sva_agile_dribble:hover{
 	color:#ea4c89;
 }
-a.w3_agile_vimeo:hover{
+a.sva_agile_vimeo:hover{
 	color:#1ab7ea;
 }
 .agile_social_icons_banner {
@@ -229,7 +229,7 @@ a.w3_agile_vimeo:hover{
 .shy-menu.is-open {
     width: 100%;
 }
-.w3_agileits_banner_main_grid,.shy-menu.is-open {
+.sva_agileits_banner_main_grid,.shy-menu.is-open {
 	height: 75px;
 }
 
@@ -325,12 +325,12 @@ a.w3_agile_vimeo:hover{
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
-.link-effect-8 a:hover::before,.w3layouts_menu__list li.active a::before {
+.link-effect-8 a:hover::before,.svalayouts_menu__list li.active a::before {
   visibility: visible;
   top: 100%;
   background: white;
 }
-.link-effect-8 a:hover::after,.w3layouts_menu__list li.active a::after {
+.link-effect-8 a:hover::after,.svalayouts_menu__list li.active a::after {
   visibility: visible;
   top: 0;
   background: white;
@@ -339,12 +339,12 @@ a.w3_agile_vimeo:hover{
 .shy-menu-panel ul li.active a,.link-effect-8 a:hover{
 	color:#a4dd25;
 }
-.w3_banner_info {
+.sva_banner_info {
     margin: 13em 0 0em;
     width: 450px;
     padding: 10px;
 }
-.w3_banner_info_grid h2 {
+.sva_banner_info_grid h2 {
     font-size: 3em;
     color: #ffffff;
     line-height: 1.1em;
@@ -352,39 +352,39 @@ a.w3_agile_vimeo:hover{
     font-weight: 900;
     text-shadow: 3px 3px #146eb4;
 }
-.w3_banner_info_grid  h5 {
+.sva_banner_info_grid  h5 {
     font-size: 28px;
     font-weight: Bold;
     margin: 10px 0;
     letter-spacing: 1px;
     color: #11b563;
 }
-.w3_banner_info_grid ul li{
+.sva_banner_info_grid ul li{
 	display:inline-block;
 	font-size:1em;
 }
-.w3_banner_info_grid ul li a{
+.sva_banner_info_grid ul li a{
 	padding:9px 30px;
 	text-decoration:none;
 	color:#212121;
 }
-.w3l_contact, .w3ls_more:hover {
+.sval_contact, .svals_more:hover {
     border: 2px solid #fff;
     color: #ffffff !important;
     background: none;
 }
-.w3ls_more, .w3l_contact:hover {
+.svals_more, .sval_contact:hover {
     border: 2px solid #11b563;
     background: #11b563;
     color: #ffffff !important;
 }
-.w3ls_more:focus{
+.svals_more:focus{
 	outline:none;
 }
 span.char3 {
     text-transform: initial;
 }
-.w3_banner_info_grid p {
+.sva_banner_info_grid p {
     margin: 1.5em 0 3em;
     font-family: cursive;
     font-weight: 600;
@@ -538,24 +538,24 @@ b, strong {
     width: 25%;
 }
 /*-- hover-effect --*/  
-.boxw3-agile {
+.boxsva-agile {
     overflow: hidden;
     position: relative;
     margin-bottom: 2em;
     margin-top: 1em;
 }
-.boxw3-agile:nth-child(4),.boxw3-agile:nth-child(5) {
+.boxsva-agile:nth-child(4),.boxsva-agile:nth-child(5) {
     margin-bottom: 0em;
 }
 
-.w3labout-img img.img-responsive {
+.svalabout-img img.img-responsive {
     width: 100%;
 	-webkit-transition:.5s all;
 	-moz-transition:.5s all; 
 	transition:.5s all;
 }
 /* agile-caption Common Style */
-.boxw3-agile .agile-caption {
+.boxsva-agile .agile-caption {
 	position: absolute;
 	color: #fff;
 	z-index: 100;
@@ -572,7 +572,7 @@ b, strong {
 	text-align: center;
 }
 /** agile-caption 6: Scale **/
-.boxw3-agile .agile-caption h3,.boxw3-agile .agile-caption p {
+.boxsva-agile .agile-caption h3,.boxsva-agile .agile-caption p {
 	position: relative;
 	left:-380px;
 	-webkit-transition: all 300ms ease-out;
@@ -581,19 +581,19 @@ b, strong {
 	-ms-transition: all 300ms ease-out;	
 	transition: all 300ms ease-out;
 }
-.boxw3-agile .agile-caption h3 {
+.boxsva-agile .agile-caption h3 {
     font-size: 17px;
     /*text-transform: uppercase; */
     margin: 0 auto 0.5em;
     font-weight: 600;
     color: #fff;
 }
-.boxw3-agile .agile-caption p {
+.boxsva-agile .agile-caption p {
     line-height: 2em;
     color: #d5d3d3;
     font-weight: 300;
 }
-.boxw3-agile .agile-caption h3 {
+.boxsva-agile .agile-caption h3 {
 	-webkit-transition-delay: 300ms;
 	-moz-transition-delay: 300ms;
 	-o-transition-delay: 300ms;
@@ -601,7 +601,7 @@ b, strong {
 	transition-delay: 300ms;
 }
 
-.boxw3-agile .agile-caption p {
+.boxsva-agile .agile-caption p {
 	-webkit-transition-delay: 500ms;
 	-moz-transition-delay: 500ms;
 	-o-transition-delay: 500ms;
@@ -609,20 +609,20 @@ b, strong {
 	transition-delay: 500ms;
 } 
 /** Fade agile-caption :hover Behaviour **/
-.boxw3-agile:hover .agile-caption {
+.boxsva-agile:hover .agile-caption {
 	opacity: 1;
 	background-color: rgba(0,0,0,0.5);
 	left:0;
 }
 /** Scale agile-caption :hover Behaviour **/
-.boxw3-agile:hover img{
+.boxsva-agile:hover img{
 	-moz-transform: scale(1.5);
 	-o-transform: scale(1.5);
 	-webkit-transform: scale(1.5);
 	transform: scale(1.5);
 }
 
-.boxw3-agile:hover .agile-caption h3,.boxw3-agile:hover .agile-caption p {
+.boxsva-agile:hover .agile-caption h3,.boxsva-agile:hover .agile-caption p {
 	-moz-transform: translateX(380px);
 	-o-transform: translateX(380px);
 	-webkit-transform: translateX(380px);
@@ -703,7 +703,7 @@ b, strong {
 		padding-right: 12px;
 		background-color: #ff4f81;
 		font-size: 12px;
-		/*--w3layouts--*/
+		/*--svalayouts--*/
 		/*--agileits--*/
 		font-weight: 600;
 		height: 15px;
@@ -737,14 +737,14 @@ b, strong {
 /* //Skills */
 
 /* education */
-.education-agile-w3l-year {
+.education-agile-sval-year {
     width: 30%;
     float: left;
     border: 1px solid #11b563;
     border-bottom: transparent;
     padding: 4.64em 2em;
 }
-.education-agile-w3l-info {
+.education-agile-sval-info {
     width: 70%;
     float: left;
     padding: 2em 2em;
@@ -754,23 +754,23 @@ b, strong {
 .last {
     border-bottom: 1px solid #11b563;
 }
-.education-agile-w3l-year h4,.education-agile-w3l-info  h4 {
+.education-agile-sval-year h4,.education-agile-sval-info  h4 {
     font-size: 25px;
     color: #2f2f2f;
 }
-.education-agile-w3l-year h6,.education-agile-w3l-info  h6 {
+.education-agile-sval-year h6,.education-agile-sval-info  h6 {
     font-size: 13px;
     letter-spacing: 2px;
     color: #ff4f81;
 }
-.education-agile-w3l-info  p {
+.education-agile-sval-info  p {
     line-height: 28px;
     font-size: 14px;
     letter-spacing: .5px;
     margin-top: 1em;
 	color:#515151;
 }
-h3.w3l_head.three {
+h3.sval_head.three {
     font-size: 40px;
     text-transform: uppercase;
     font-weight: bold;
@@ -823,7 +823,7 @@ i.fa.fa-hourglass-end {
 		margin: 0 auto;
 		padding: 0;
 		max-width: 800px;
-		/*--w3layouts--*/
+		/*--svalayouts--*/
 		/*--agileits--*/
 		list-style: none;
 		-ms-box-orient: horizontal;
@@ -902,7 +902,7 @@ i.fa.fa-hourglass-end {
 			padding: 0.75em 0;
 			color: rgba(40,44,42,0.05);
 			font-weight: 900;
-			/*--w3layouts--*/
+			/*--svalayouts--*/
 			/*--agileits--*/
 			font-size: 4em;
 			line-height: 1;
@@ -948,7 +948,7 @@ i.fa.fa-hourglass-end {
 
 		.tabs-style-bar nav ul li a span {
 			letter-spacing: 1px;
-			/*--w3layouts--*/
+			/*--svalayouts--*/
 			/*--agileits--*/
 			font-size: 15px;
 		}
@@ -992,7 +992,7 @@ i.fa.fa-hourglass-end {
 		.gallery-grids figure figcaption {
 			padding: 2em;
 			color: #fff;
-			/*--w3layouts--*/
+			/*--svalayouts--*/
 			/*--agileits--*/
 			-webkit-backface-visibility: hidden;
 			-moz-backface-visibility: hidden;
@@ -1059,7 +1059,7 @@ i.fa.fa-hourglass-end {
 			-o-transition: -o-transform 0.35s;
 			-ms-transition: -ms-transform 0.35s;
 			transition: transform 0.35s;
-			/*--w3layouts--*/
+			/*--svalayouts--*/
 			/*--agileits--*/
 			-webkit-transform: translate3d(0,-20px,0);
 			-moz-transform: translate3d(0,-20px,0);
@@ -1293,7 +1293,7 @@ iframe {
 
 /* Responsive design */
 @media screen and (max-width: 1920px){
-	.education-agile-w3l-year {
+	.education-agile-sval-year {
 		padding: 3.75em 2em;
 	}
 	i.fa.fa-hourglass-end {
@@ -1301,7 +1301,7 @@ iframe {
 	}
 }
 @media screen and (max-width: 1680px){
-	.education-agile-w3l-year {
+	.education-agile-sval-year {
 		padding: 4.64em 2em;
 	}
 	i.fa.fa-hourglass-end {
@@ -1309,7 +1309,7 @@ iframe {
 	}
 }
 @media screen and (max-width: 1440px){
-	.education-agile-w3l-year {
+	.education-agile-sval-year {
 		padding: 4.64em 1em;
 	}
 	.about-left h3 {
@@ -1326,7 +1326,7 @@ iframe {
 	.banner,.agileinfo-dot {
 		min-height: 650px;
 	}
-	.w3_banner_info {
+	.sva_banner_info {
 		margin: 11em 0 0em;
 	}
 	.about-left h3 {
@@ -1334,7 +1334,7 @@ iframe {
 		font-size: 40px;
 		margin-bottom: 30px;
 	}
-	.education-agile-w3l-year {
+	.education-agile-sval-year {
 		padding: 5.5em 1em;
 	}
 	.skills, .contact, .education, .about, .portfolio {
@@ -1346,7 +1346,7 @@ iframe {
 	.about-left h3 {
 		font-size: 36px;
 	}
-	.education-agile-w3l-year h4, .education-agile-w3l-info h4 {
+	.education-agile-sval-year h4, .education-agile-sval-info h4 {
 		font-size: 22px;
 	}
 	i.fa.fa-hourglass-end {
@@ -1364,10 +1364,10 @@ iframe {
 	nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 		padding: 1em 7em;
 	}
-	.w3_banner_info_grid h2 {
+	.sva_banner_info_grid h2 {
 		font-size: 2.7em;
 	}
-	h3.w3l_head.three {
+	h3.sval_head.three {
 		font-size: 30px;
 		letter-spacing: 1px;
 	}
@@ -1378,22 +1378,22 @@ iframe {
 	.about-left h3 {
 		font-size: 30px;
 	}
-	.boxw3-agile .agile-caption {
+	.boxsva-agile .agile-caption {
 		padding: 17% 10%;
 	}	
-	.education-agile-w3l-year {
+	.education-agile-sval-year {
 		padding: 5.5em .51em;
 	}
-	.education-agile-w3l-year h4, .education-agile-w3l-info h4 {
+	.education-agile-sval-year h4, .education-agile-sval-info h4 {
 		font-size: 20px;
 	}
-	.education-agile-w3l-year h6, .education-agile-w3l-info h6 {
+	.education-agile-sval-year h6, .education-agile-sval-info h6 {
 		letter-spacing: 1px;
 	}
 	.skills, .contact, .education, .about, .portfolio {
 		padding: 3em 0;
 	}
-	.education-agile-w3l-info {
+	.education-agile-sval-info {
 		padding: 2em 1em;
 	}
 	i.fa.fa-hourglass-end {
@@ -1414,7 +1414,7 @@ iframe {
 	}
 }
 @media screen and (max-width: 1050px){
-	.education-agile-w3l-info p {
+	.education-agile-sval-info p {
 		letter-spacing: 0px;
 	}
 }
@@ -1431,7 +1431,7 @@ iframe {
 	}
 }
 @media screen and (max-width: 991px){
-	.w3_banner_info_grid h2 {
+	.sva_banner_info_grid h2 {
 		font-size: 2.5em;
 	}
 	.about-right {
@@ -1441,17 +1441,17 @@ iframe {
 	.about-left img {
 		width: 17%;
 	}
-	.boxw3-agile {
+	.boxsva-agile {
 		width: 50%;
 		float: left;
 	}
 	.skill-grids-right {
 		margin-top: 4em;
 	}
-	.education-w3l {
+	.education-sval {
 		padding: 0 3em;
 	}
-	.education-agile-w3l-year {
+	.education-agile-sval-year {
 		padding: 3.75em 2em;
 	}
 	i.fa.fa-hourglass-end {
@@ -1507,7 +1507,7 @@ iframe {
 	h1 a.navbar-brand {
 		font-size: 32px;
 	}
-	.education-agile-w3l-year {
+	.education-agile-sval-year {
 		padding: 4.65em 2em;
 	}
 }
@@ -1557,7 +1557,7 @@ iframe {
 	.copyright-agile h4 {
 		font-size: 25px;
 	}
-	.w3_banner_info {
+	.sva_banner_info {
 		margin: 9em 0 0em;
 	}		
 	.banner, .agileinfo-dot {
@@ -1585,7 +1585,7 @@ iframe {
 	iframe {
 		height: 300px;
 	}
-	.w3_banner_info {
+	.sva_banner_info {
 		margin: 8em 0 0em;
 	}		
 	.banner, .agileinfo-dot {
@@ -1593,13 +1593,13 @@ iframe {
 	}
 }
 @media screen and (max-width: 640px){
-	.w3_banner_info {
+	.sva_banner_info {
 		margin: 8em 0 0em;
 	}
 	.banner, .agileinfo-dot {
 		min-height: 550px;
 	}
-	.education-w3l {
+	.education-sval {
 		padding: 0 2em;
 	}
 	.about h3, .skills h3, .map h3 {
@@ -1614,13 +1614,13 @@ iframe {
 	}
 }
 @media screen and (max-width: 600px){
-	.education-agile-w3l-year {
+	.education-agile-sval-year {
 		padding: 4.6em 1em;
 	}
 	.portfolio h4 {
 		margin: 20px 0;
 	}
-	.w3_banner_info {
+	.sva_banner_info {
 		margin: 6em 0 0em;
 	}
 	.banner, .agileinfo-dot {
@@ -1631,10 +1631,10 @@ iframe {
 	.banner, .agileinfo-dot {
 		min-height: 500px;
 	}
-	.w3_banner_info {
+	.sva_banner_info {
 		margin: 7em 0 0em;
 	}
-	.w3_banner_info_grid h2 {
+	.sva_banner_info_grid h2 {
 		font-size: 2.2em;
 	}
 	.about-right {
@@ -1671,7 +1671,7 @@ iframe {
 	.about-right {
 		width: 90%;
 	}
-	.education-agile-w3l-year {
+	.education-agile-sval-year {
 		padding: 5.5em 0.5em;
 	}
 	.gallery-top {
@@ -1690,7 +1690,7 @@ iframe {
 		height: 36px;
 		line-height: 18px;
 	}
-	.w3_banner_info {
+	.sva_banner_info {
 		width: auto;
 	}
 	.skills, .contact, .education, .about, .portfolio {
@@ -1710,19 +1710,19 @@ iframe {
 	.about-right {
 		width: 100%;
 	}
-	.boxw3-agile {
+	.boxsva-agile {
 		padding: 5px;
 		margin-bottom: 0em;
 		margin-top: 0em;
 	}
-	.education-agile-w3l-year,.education-agile-w3l-info {
+	.education-agile-sval-year,.education-agile-sval-info {
 		width: 100%;
 		float: none;
 	}
-	.education-agile-w3l-year{
+	.education-agile-sval-year{
 		padding: 2em;
 	}
-	.education-agile-w3l-info {
+	.education-agile-sval-info {
 		border-left: 1px solid #11b563;
 	}
 	.gallery-top figure.effect-bubba h4 {
@@ -1741,7 +1741,7 @@ iframe {
 	ul.top-links {
 		margin-top: 0em;
 	}
-	.w3_banner_info {
+	.sva_banner_info {
 		margin: 7em 0 4em;
 	}
 	.banner {
@@ -1750,10 +1750,10 @@ iframe {
 	}
 }
 @media screen and (max-width: 384px){
-	.w3_banner_info_grid ul li a {
+	.sva_banner_info_grid ul li a {
 		padding: 9px 20px;
 	}
-	.w3_banner_info_grid ul li {
+	.sva_banner_info_grid ul li {
 		font-size: .9em;
 	}
 	nav.navbar.navbar-default.navbar-fixed-top {
@@ -1770,18 +1770,18 @@ iframe {
 	.gallery-top figure.effect-bubba h4 {
 		padding-top: 16%;
 	}
-	.boxw3-agile .agile-caption h3 {
+	.boxsva-agile .agile-caption h3 {
 		font-size: 22px;
 	}
-	.boxw3-agile .agile-caption p {
+	.boxsva-agile .agile-caption p {
 		line-height: 1.6em;
 	}
 }
 @media screen and (max-width: 375px){
-	.education-w3l {
+	.education-sval {
 		padding: 0 1em;
 	}
-	.w3_banner_info_grid h2 {
+	.sva_banner_info_grid h2 {
 		font-size: 2em;
 	}
 	i.fa.fa-hourglass-end {
@@ -1789,7 +1789,7 @@ iframe {
 	}
 }
 @media screen and (max-width: 320px){
-	.w3_banner_info_grid ul li a {
+	.sva_banner_info_grid ul li a {
 		padding: 8px 13px;
 	}
 	.about-left h3 {
@@ -1804,17 +1804,17 @@ iframe {
 	.gallery-top {
 		width: 100%;
 	}
-	.boxw3-agile {
+	.boxsva-agile {
 		width: 100%;
 		float: none;
 	}
-	.w3_banner_info {
+	.sva_banner_info {
 		margin: 4em 0 4em;
 	}
 	.tabs-style-bar nav ul li a {
 		margin: 0 4px;
 	}
-	.w3_banner_info_grid p {
+	.sva_banner_info_grid p {
 		margin: 1.5em 0 .5em;
 	}
 }
