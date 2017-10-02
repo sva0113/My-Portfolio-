@@ -55,6 +55,18 @@
   height: auto;
   vertical-align: middle;
 }
+.slbCloseBtn {
+  font-size: 3em;
+  width: 1.66667em;
+  height: 1.66667em;
+  line-height: 1.66667em;
+  position: fixed;
+  right: 0;
+  top: 0;
+  color: #fff;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: center;
+}
 
 #swipebox-action, #swipebox-caption {
   position: absolute;
