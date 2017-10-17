@@ -535,9 +535,15 @@ b, strong {
     text-align: center;
 }
 .about-left img {
-    width: 95%;
+    width: 33%;
+    float: right;
+    -webkit-transition:.5s all;
+    -moz-transition:.5s all;
+    transition:.5s all;
 }
-/*-- hover-effect --*/  
+
+/*-- hover-effect --*/
+
 .boxsva-agile {
     overflow: hidden;
     position: relative;
